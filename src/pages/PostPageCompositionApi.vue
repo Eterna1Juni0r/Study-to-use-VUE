@@ -91,21 +91,4 @@ export default {
   display: flex;
   justify-content: space-between;
 }
-.page__wrapper{
-  display: flex;
-  margin-top: 15px;
-}
-.page{
-  border: 1px solid black;
-  padding: 10px ;
-}
-.current_page{
-  border: 3px solid teal;
-}
-
-.observer{
-  height: 30px;
-  background: green;
-
-}
 </style>
